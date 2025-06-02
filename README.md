@@ -1,2 +1,2 @@
 # LuminousVibe
-A simple portfolio styled website made by me, a 10-year-old
+A simple portfolio website with style made by me
