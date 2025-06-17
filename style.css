@@ -158,6 +158,12 @@ body {
     color: white;
     border: none;
     border-bottom: 3px solid white;
+    transition: border-bottom 0.3s ease;
+}
+
+.qform:hover {
+	 border-bottom: 3px solid #4a90e2;
+	 transition: border-bottom 0.3s ease;
 }
 
 .SB {
