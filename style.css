@@ -118,7 +118,7 @@ body {
 }
 
 .bSect {
-    background-color:#0c0c0c;
+    background: linear-gradient(to right, rgb(43, 0, 43,), #122431);
     border-bottom: 3px solid transparent;
     border-top: 3px solid transparent;
     border-image: linear-gradient(to right, purple, #4a90e2);
