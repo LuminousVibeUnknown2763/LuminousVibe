@@ -91,8 +91,9 @@ body {
 #home {              
     gap: 15px;  
     height: 35vh;
-    width: 110vh;
+    width: 100vh;
     background: linear-gradient(to right, rgb(86, 0, 86), #254871);
+    border-radius: 0;
 }
 
 .logo {
@@ -114,7 +115,8 @@ body {
 
 #about {
     height: 50vh;
-    width:110vh;
+    width:100vh;
+    border-radius: 0;
 }
 
 .bSect {
